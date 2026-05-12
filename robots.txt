@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://patchfighterway90.github.io/cs2-external-helper-tool/sitemap.xml
