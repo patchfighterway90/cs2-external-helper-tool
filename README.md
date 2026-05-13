@@ -57,3 +57,4 @@ The cs2-external-helper-tool is developed by patchfighterway90 and is available 
 For more information on the cs2-external-helper-tool, including usage guides and troubleshooting tips, please refer to the official documentation. 
 
 ## 📸 Additional Screenshots
+<!-- doc tweak -->
