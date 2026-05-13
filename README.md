@@ -58,3 +58,9 @@ For more information on the cs2-external-helper-tool, including usage guides and
 
 ## 📸 Additional Screenshots
 <!-- doc tweak -->
+
+## 🧪 Tested configurations
+
+- Windows 11 23H2 + RTX 4070 + i7-13700K
+- Windows 10 22H2 + RX 6700 XT + Ryzen 5 5600
+- Windows 11 23H2 + RTX 3060 + i5-12400
