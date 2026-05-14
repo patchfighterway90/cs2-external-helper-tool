@@ -1,4 +1,7 @@
 # Changelog
+
+## v1.0.1 — 2026-05-14
+- Small wording fixes in README.
 All notable changes to the cs2-external-helper-tool project will be documented in this file.
 
 ## [v1.0.0] - 2024-07-26
